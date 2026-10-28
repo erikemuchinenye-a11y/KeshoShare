@@ -1,0 +1,6 @@
+{
+  "name": "KeshoShare",
+  "description": "A modern, Africa-facing mutual resource sharing platform for Nigerian communities. Give today. Make tomorrow better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
